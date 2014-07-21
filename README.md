@@ -1,3 +1,7 @@
+Device tree for Axxionkat derived from CoolDevelopments device tree ...all credits to him 
+
+
+
 Samsung Galaxy S II Plus
 ============================
 

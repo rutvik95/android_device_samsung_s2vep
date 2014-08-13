@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/sokp.mk
+    $(LOCAL_DIR)/spirit.mk

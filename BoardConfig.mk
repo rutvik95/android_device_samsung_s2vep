@@ -25,12 +25,17 @@ BOARD_SYSTEMIMAGE_PARTITION_SIZE := 1610612736
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 4404019200
 BOARD_FLASH_BLOCK_SIZE := 131072
 
+
+#spirit specific configs for fixing compiling error
 TARGET_GCC_VERSION_AND := 4.8
 TARGET_GCC_VERSION_ARM := 4.7-sm
 TARGET_USE_O3 := true
 STRICT_ALIASING := true
 SUPPRES_UNUSED_WARNING := true
 OPT_MEMORY := true
+
+
+
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_s2vep_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/galaxys2plus-common

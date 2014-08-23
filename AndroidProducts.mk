@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spirit.mk
+    $(LOCAL_DIR)/device_s2vep.mk
